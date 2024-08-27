@@ -51,7 +51,7 @@
     <p>Para mais informações ou para reportar problemas, entre em contato com:</p>
     <ul>
         <li><strong>Matheus Emmanuel Maciel Pontes</strong></li>
-        <li><a href="https://www.linkedin.com/in/matheus-emmanuel-maciel-pontes/">LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/matheusempontes/">LinkedIn</a></li>
         <li>Email: <a href="mailto:matheusemmanuel71@gmail.com">matheusemmanuel71@gmail.com</a></li>
     </ul>
 
