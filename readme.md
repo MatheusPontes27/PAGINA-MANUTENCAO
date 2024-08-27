@@ -52,7 +52,7 @@
     <ul>
         <li><strong>Matheus Emmanuel Maciel Pontes</strong></li>
         <li><a href="https://www.linkedin.com/in/matheus-emmanuel-maciel-pontes/">LinkedIn</a></li>
-        <li>Email: <a href="mailto:seu-email@example.com">seu-email@example.com</a></li>
+        <li>Email: <a href="mailto:matheusemmanuel71@gmail.com">seu-email@example.com</a></li>
     </ul>
 
 <h2>Licença</h2>
